@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" pages="2">
-  <diagram name="Trang-1" id="gTNedIUKtptK5A5rLqzg">
-    <mxGraphModel dx="1230" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" pages="4">
+  <diagram name="Übung 2" id="tCu3wCs1X0EMqEzOCbQJ">
+    <mxGraphModel dx="964" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -803,8 +803,24 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="7xV6uxNAketFNvbm8T69" name="Seite-2">
+  <diagram name="Seite-1" id="DlU5gTbRN3QyYAC1Oizd">
+    <mxGraphModel dx="448" dy="308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mP6YTEykyg2ZkHA6-0bP" name="Seite-2">
     <mxGraphModel dx="964" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Seite-2" id="wAmPOzlS7GSllsi_F_jF">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
