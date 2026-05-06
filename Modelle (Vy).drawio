@@ -1,0 +1,814 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Trang-1" id="gTNedIUKtptK5A5rLqzg">
+    <mxGraphModel dx="1230" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bppP54yAwNuBXcMI9UZE-14" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit; background-color: rgb(255, 255, 255);&quot;&gt;S1:&amp;nbsp; Ein Nutzer besitzt ein Profil.&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="295" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-15" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="55" width="410" x="182.5" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-16" parent="bppP54yAwNuBXcMI9UZE-15" style="rounded=0;whiteSpace=wrap;html=1;" value="Nutzer" vertex="1">
+          <mxGeometry height="40" width="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-17" edge="1" parent="bppP54yAwNuBXcMI9UZE-15" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="29.5" as="sourcePoint" />
+            <mxPoint x="160" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-18" parent="bppP54yAwNuBXcMI9UZE-15" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-19" edge="1" parent="bppP54yAwNuBXcMI9UZE-15" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="29.5" as="sourcePoint" />
+            <mxPoint x="330" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-20" parent="bppP54yAwNuBXcMI9UZE-15" style="rounded=0;whiteSpace=wrap;html=1;" value="Profil" vertex="1">
+          <mxGeometry height="40" width="80" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-25" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 13px;&quot;&gt;&lt;b&gt;S2:&amp;nbsp; Ein Nutzer hat genau eine Rolle.&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="288.75" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-26" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="55" width="410" x="120" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-27" parent="bppP54yAwNuBXcMI9UZE-26" style="rounded=0;whiteSpace=wrap;html=1;" value="Nutzer" vertex="1">
+          <mxGeometry height="40" width="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-28" edge="1" parent="bppP54yAwNuBXcMI9UZE-26" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="29.5" as="sourcePoint" />
+            <mxPoint x="160" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-29" parent="bppP54yAwNuBXcMI9UZE-26" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-30" edge="1" parent="bppP54yAwNuBXcMI9UZE-26" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="29.5" as="sourcePoint" />
+            <mxPoint x="330" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-31" parent="bppP54yAwNuBXcMI9UZE-26" style="rounded=0;whiteSpace=wrap;html=1;" value="Rolle" vertex="1">
+          <mxGeometry height="40" width="80" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-36" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 13px;&quot;&gt;&lt;b&gt;S3:&amp;nbsp; Eine Rolle ist entweder Entwickler, Projektverantwortlicher oder externer Beitragender.&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="580" x="130" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-38" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255);&quot;&gt;S4:&amp;nbsp; &amp;nbsp;Ein Projektverantwortlicher legt Projekte an.&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="310" x="245" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-40" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="489.58" y="260" as="sourcePoint" />
+            <mxPoint x="489.5800000000001" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Entwickler" vertex="1">
+          <mxGeometry height="40" width="80" x="306" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Projektverantwortlicher" vertex="1">
+          <mxGeometry height="40" width="140" x="416" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="externer&lt;div&gt;Beitragender&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="586" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-46" edge="1" parent="1" source="e078-BIbVDtsim-AoM8i-188" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="bppP54yAwNuBXcMI9UZE-42" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="486.0000000000001" y="350" as="sourcePoint" />
+            <mxPoint x="506" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-47" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.021;entryY=0.631;entryDx=0;entryDy=0;entryPerimeter=0;" target="e078-BIbVDtsim-AoM8i-188" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="346" y="325" as="sourcePoint" />
+            <mxPoint x="441" y="324.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-50" edge="1" parent="1" source="e078-BIbVDtsim-AoM8i-188" style="endArrow=none;html=1;rounded=0;exitX=1.037;exitY=0.631;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="531" y="325" as="sourcePoint" />
+            <mxPoint x="626" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-51" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bppP54yAwNuBXcMI9UZE-43" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="626" y="324.85" as="sourcePoint" />
+            <mxPoint x="666" y="324.85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-53" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="346" y="380" as="sourcePoint" />
+            <mxPoint x="346" y="324.85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-54" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="65" width="520" x="160" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-55" parent="bppP54yAwNuBXcMI9UZE-54" style="rounded=0;whiteSpace=wrap;html=1;" value="Projekt-&lt;div&gt;verantwortlicher&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="126.82926829268291" x="-48.36678389109473" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-180" edge="1" parent="bppP54yAwNuBXcMI9UZE-54" source="bppP54yAwNuBXcMI9UZE-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265.913043478261" y="30.17391304347825" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-57" parent="bppP54yAwNuBXcMI9UZE-54" style="rhombus;whiteSpace=wrap;html=1;" value="anlage" vertex="1">
+          <mxGeometry height="50" width="114.14634146341463" x="250.0024106636415" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-62" parent="bppP54yAwNuBXcMI9UZE-54" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Projektverantwortlicher&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="107.95441860465115" x="121.81302325581395" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-61" parent="bppP54yAwNuBXcMI9UZE-54" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;1:1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="19.5" width="64.00837209302325" x="143.7860465116279" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-60" parent="bppP54yAwNuBXcMI9UZE-54" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;0:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="60.46511627906976" x="399.06976744186045" y="9.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-63" parent="bppP54yAwNuBXcMI9UZE-54" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;Projekt&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="51.55255813953488" x="403.52" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-182" edge="1" parent="bppP54yAwNuBXcMI9UZE-54" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="bppP54yAwNuBXcMI9UZE-57" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="78.46000000000001" y="32.210000000000036" as="sourcePoint" />
+            <mxPoint x="118.46000000000001" y="32.210000000000036" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-183" edge="1" parent="bppP54yAwNuBXcMI9UZE-54" style="endArrow=none;html=1;rounded=0;entryX=0.006;entryY=0.418;entryDx=0;entryDy=0;entryPerimeter=0;" target="bppP54yAwNuBXcMI9UZE-59" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="364.15" y="29.710000000000036" as="sourcePoint" />
+            <mxPoint x="404.15" y="29.710000000000036" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Projekt" vertex="1">
+          <mxGeometry height="45" width="83.9" x="647.5" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-66" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 13px;&quot;&gt;&lt;b&gt;S5:&amp;nbsp; Ein Projektverantwortlicher vergibt Zugriffsrechte.&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="350" x="245" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-67" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="55" width="410" x="215" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-68" parent="bppP54yAwNuBXcMI9UZE-67" style="rounded=0;whiteSpace=wrap;html=1;" value="Projekt-&lt;div&gt;verantwortlicher&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="-20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-69" edge="1" parent="bppP54yAwNuBXcMI9UZE-67" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="29.5" as="sourcePoint" />
+            <mxPoint x="160" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-70" parent="bppP54yAwNuBXcMI9UZE-67" style="rhombus;whiteSpace=wrap;html=1;" value="vergibt" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-71" edge="1" parent="bppP54yAwNuBXcMI9UZE-67" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="29.5" as="sourcePoint" />
+            <mxPoint x="330" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-72" parent="bppP54yAwNuBXcMI9UZE-67" style="rounded=0;whiteSpace=wrap;html=1;" value="Zugriffsrecht" vertex="1">
+          <mxGeometry height="40" width="80" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-73" parent="bppP54yAwNuBXcMI9UZE-67" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="36" x="272" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-74" parent="bppP54yAwNuBXcMI9UZE-67" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;1:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="30" x="110" y="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-75" parent="bppP54yAwNuBXcMI9UZE-67" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Projekt-verantwortlicher&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-76" parent="bppP54yAwNuBXcMI9UZE-67" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;Zugriffsrecht&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-77" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 13px;&quot;&gt;&lt;b&gt;S6:&amp;nbsp; Ein Projekt enthält ein oder mehrere Code-Repositories.&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="425" x="170" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-78" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="55" width="410" x="195" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-79" parent="bppP54yAwNuBXcMI9UZE-78" style="rounded=0;whiteSpace=wrap;html=1;" value="Projekt" vertex="1">
+          <mxGeometry height="40" width="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-80" edge="1" parent="bppP54yAwNuBXcMI9UZE-78" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="29.5" as="sourcePoint" />
+            <mxPoint x="160" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-81" parent="bppP54yAwNuBXcMI9UZE-78" style="rhombus;whiteSpace=wrap;html=1;" value="enthält" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-82" edge="1" parent="bppP54yAwNuBXcMI9UZE-78" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="29.5" as="sourcePoint" />
+            <mxPoint x="330" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-83" parent="bppP54yAwNuBXcMI9UZE-78" style="rounded=0;whiteSpace=wrap;html=1;" value="Code-&lt;div&gt;Repository&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-84" parent="bppP54yAwNuBXcMI9UZE-78" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="15" width="46" x="270" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-85" parent="bppP54yAwNuBXcMI9UZE-78" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-86" parent="bppP54yAwNuBXcMI9UZE-78" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Projekt&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-87" parent="bppP54yAwNuBXcMI9UZE-78" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;Code-&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Respository&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="263" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bppP54yAwNuBXcMI9UZE-88" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 13px;&quot;&gt;S7:&amp;nbsp; Ein Code-Repository enthält Dateien und Ordner.&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="197.5" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 0);&quot;&gt;S8:&amp;nbsp; Ein Commit dokumentiert eine Änderung im Code-Repository.&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="435" x="170" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-2" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="55" width="410" x="170" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-3" parent="e078-BIbVDtsim-AoM8i-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Commit" vertex="1">
+          <mxGeometry height="40" width="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-4" edge="1" parent="e078-BIbVDtsim-AoM8i-2" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="29.5" as="sourcePoint" />
+            <mxPoint x="160" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-5" parent="e078-BIbVDtsim-AoM8i-2" style="rhombus;whiteSpace=wrap;html=1;" value="dokumentiert" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-7" parent="e078-BIbVDtsim-AoM8i-2" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Änderung&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-8" parent="e078-BIbVDtsim-AoM8i-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="46" x="270" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-9" parent="e078-BIbVDtsim-AoM8i-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="50" x="100" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-10" parent="e078-BIbVDtsim-AoM8i-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Commit&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="95" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-12" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;S9:&amp;nbsp; Ein Commit hat einen Autor, eine Nachricht und einen Zeitpunkt&lt;/b&gt;&lt;/font&gt;." vertex="1">
+          <mxGeometry height="50" width="470" x="147.5" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-13" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 13px;&quot;&gt;&lt;b&gt;S10:&amp;nbsp; Ein Branch ermöglicht isolierte Entwicklung.&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="320" x="210" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-24" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="55" width="410" x="165" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-25" parent="e078-BIbVDtsim-AoM8i-24" style="rounded=0;whiteSpace=wrap;html=1;" value="Branche" vertex="1">
+          <mxGeometry height="40" width="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-27" parent="e078-BIbVDtsim-AoM8i-24" style="rhombus;whiteSpace=wrap;html=1;" value="ermöglicht" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-28" edge="1" parent="e078-BIbVDtsim-AoM8i-24" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="29.5" as="sourcePoint" />
+            <mxPoint x="330" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-29" parent="e078-BIbVDtsim-AoM8i-24" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Entwicklung&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-30" parent="e078-BIbVDtsim-AoM8i-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="15" width="36" x="274" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-31" parent="e078-BIbVDtsim-AoM8i-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="15" width="40" x="100" y="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-26" edge="1" parent="e078-BIbVDtsim-AoM8i-24" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="29.79999999999992" as="sourcePoint" />
+            <mxPoint x="160" y="29.79999999999992" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-32" parent="e078-BIbVDtsim-AoM8i-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Branche&lt;/font&gt;" vertex="1">
+          <mxGeometry height="15" width="50" x="95" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-33" parent="e078-BIbVDtsim-AoM8i-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Entwicklung" vertex="1">
+          <mxGeometry height="20" width="55" x="264.5" y="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-38" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;S11:&amp;nbsp; Ein Branch gehört zu genau einem Code-Repository.&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="372.5" x="187.5" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-39" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="65" width="410" x="160" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-40" parent="e078-BIbVDtsim-AoM8i-39" style="rounded=0;whiteSpace=wrap;html=1;" value="Code-&lt;div&gt;Repository&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-41" connectable="0" parent="e078-BIbVDtsim-AoM8i-39" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="330" x="80" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-42" edge="1" parent="e078-BIbVDtsim-AoM8i-41" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="24.5" as="sourcePoint" />
+            <mxPoint x="80" y="24.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-43" parent="e078-BIbVDtsim-AoM8i-41" style="rhombus;whiteSpace=wrap;html=1;" value="gehört zu&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="90" x="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-44" edge="1" parent="e078-BIbVDtsim-AoM8i-41" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="24.5" as="sourcePoint" />
+            <mxPoint x="250" y="24.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-45" parent="e078-BIbVDtsim-AoM8i-41" style="rounded=0;whiteSpace=wrap;html=1;" value="Branch" vertex="1">
+          <mxGeometry height="40" width="80" x="250" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-46" parent="e078-BIbVDtsim-AoM8i-41" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="46" x="190" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-48" parent="e078-BIbVDtsim-AoM8i-41" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;Branch&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="40" x="193" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-49" parent="e078-BIbVDtsim-AoM8i-41" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;Code-&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Respository&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-47" parent="e078-BIbVDtsim-AoM8i-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="50" x="100" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-50" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 0);&quot;&gt;S&lt;font&gt;12:&amp;nbsp;&amp;nbsp;Ein Branch enthält mehrere Aktivitä&lt;/font&gt;ten.&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="290" x="220" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-51" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="65" width="410" x="165" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-52" parent="e078-BIbVDtsim-AoM8i-51" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Branch&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-53" edge="1" parent="e078-BIbVDtsim-AoM8i-51" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="29.5" as="sourcePoint" />
+            <mxPoint x="160" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-54" parent="e078-BIbVDtsim-AoM8i-51" style="rhombus;whiteSpace=wrap;html=1;" value="enthält" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-55" edge="1" parent="e078-BIbVDtsim-AoM8i-51" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="29.5" as="sourcePoint" />
+            <mxPoint x="330" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-56" parent="e078-BIbVDtsim-AoM8i-51" style="rounded=0;whiteSpace=wrap;html=1;" value="Aktivität" vertex="1">
+          <mxGeometry height="40" width="80" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-57" parent="e078-BIbVDtsim-AoM8i-51" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="46" x="270" y="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-58" parent="e078-BIbVDtsim-AoM8i-51" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="50" x="95" y="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-59" parent="e078-BIbVDtsim-AoM8i-51" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;Aktivität&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="50" x="268" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-60" parent="e078-BIbVDtsim-AoM8i-51" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Branch&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="25" width="50" x="95" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-62" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;S13:&amp;nbsp;&amp;nbsp;Eine Aktivität hat einen Branchnamen,eine Aktivitätsart, einen Nutzer und einen Zeitstempel.&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="620" x="90" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-63" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="55" width="410" x="165" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-64" parent="e078-BIbVDtsim-AoM8i-63" style="rounded=0;whiteSpace=wrap;html=1;" value="Aktivität" vertex="1">
+          <mxGeometry height="40" width="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-65" edge="1" parent="e078-BIbVDtsim-AoM8i-63" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="29.5" as="sourcePoint" />
+            <mxPoint x="160" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-66" parent="e078-BIbVDtsim-AoM8i-63" style="rhombus;whiteSpace=wrap;html=1;" value="hat" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-67" edge="1" parent="e078-BIbVDtsim-AoM8i-63" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="29.5" as="sourcePoint" />
+            <mxPoint x="330" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-68" parent="e078-BIbVDtsim-AoM8i-63" style="rounded=0;whiteSpace=wrap;html=1;" value="Nutzer" vertex="1">
+          <mxGeometry height="40" width="80" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-69" parent="e078-BIbVDtsim-AoM8i-63" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;0:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="274" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-70" parent="e078-BIbVDtsim-AoM8i-63" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-71" parent="e078-BIbVDtsim-AoM8i-63" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Aktivität&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-72" parent="e078-BIbVDtsim-AoM8i-63" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Nutzer&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-74" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 0);&quot;&gt;S14:&amp;nbsp;&amp;nbsp;Ein Entwickler erstellt einen Pull Request.&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="310" x="200" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-75" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="65" width="410" x="147.5" y="1780" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-76" parent="e078-BIbVDtsim-AoM8i-75" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Entwickler&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-77" edge="1" parent="e078-BIbVDtsim-AoM8i-75" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="29.5" as="sourcePoint" />
+            <mxPoint x="160" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-78" parent="e078-BIbVDtsim-AoM8i-75" style="rhombus;whiteSpace=wrap;html=1;" value="erstellt" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-79" edge="1" parent="e078-BIbVDtsim-AoM8i-75" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="29.5" as="sourcePoint" />
+            <mxPoint x="330" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-80" parent="e078-BIbVDtsim-AoM8i-75" style="rounded=0;whiteSpace=wrap;html=1;" value="Pull Request" vertex="1">
+          <mxGeometry height="40" width="80" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-81" parent="e078-BIbVDtsim-AoM8i-75" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="274" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-82" parent="e078-BIbVDtsim-AoM8i-75" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-83" parent="e078-BIbVDtsim-AoM8i-75" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;Pull Request&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-84" parent="e078-BIbVDtsim-AoM8i-75" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Entwickler&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="90" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-85" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 0);&quot;&gt;S15:&amp;nbsp;&amp;nbsp;Ein Pull Request bezieht sich auf Änderungen in einem Branch.&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="465" x="140" y="1850" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-86" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="65" width="410" x="147.5" y="2020" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-87" parent="e078-BIbVDtsim-AoM8i-86" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Pull Request&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-88" edge="1" parent="e078-BIbVDtsim-AoM8i-86" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="29.5" as="sourcePoint" />
+            <mxPoint x="160" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-89" parent="e078-BIbVDtsim-AoM8i-86" style="rhombus;whiteSpace=wrap;html=1;" value="kommentiert" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-90" edge="1" parent="e078-BIbVDtsim-AoM8i-86" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="29.5" as="sourcePoint" />
+            <mxPoint x="330" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-91" parent="e078-BIbVDtsim-AoM8i-86" style="rounded=0;whiteSpace=wrap;html=1;" value="Teammitglied" vertex="1">
+          <mxGeometry height="40" width="80" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-92" parent="e078-BIbVDtsim-AoM8i-86" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;0:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="274" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-93" parent="e078-BIbVDtsim-AoM8i-86" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;0:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="90" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-94" parent="e078-BIbVDtsim-AoM8i-86" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;Teammitglied&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-95" parent="e078-BIbVDtsim-AoM8i-86" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Pull Request&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="90" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-96" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="65" width="410" x="147.5" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-97" parent="e078-BIbVDtsim-AoM8i-96" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Pull Request&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-98" edge="1" parent="e078-BIbVDtsim-AoM8i-96" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="29.5" as="sourcePoint" />
+            <mxPoint x="160" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-99" parent="e078-BIbVDtsim-AoM8i-96" style="rhombus;whiteSpace=wrap;html=1;" value="bezieht sich" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-100" edge="1" parent="e078-BIbVDtsim-AoM8i-96" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="29.5" as="sourcePoint" />
+            <mxPoint x="330" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-101" parent="e078-BIbVDtsim-AoM8i-96" style="rounded=0;whiteSpace=wrap;html=1;" value="Branch" vertex="1">
+          <mxGeometry height="40" width="80" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-102" parent="e078-BIbVDtsim-AoM8i-96" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="274" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-103" parent="e078-BIbVDtsim-AoM8i-96" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-104" parent="e078-BIbVDtsim-AoM8i-96" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;Branch&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-105" parent="e078-BIbVDtsim-AoM8i-96" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Pull Request&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="90" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-106" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 0);&quot;&gt;S16:&amp;nbsp;&amp;nbsp;Ein Pull Request wird von Teammitgliedern kommentiert.&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="400" x="155" y="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-107" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 0);&quot;&gt;S17:&amp;nbsp;&amp;nbsp;Ein Teammitglied gibt zu einem Pull Request eine Zustimmung oder Ablehnung.&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="550" x="90" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-108" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="75" width="480" x="125" y="2150" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-109" parent="e078-BIbVDtsim-AoM8i-108" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Teammitglied&lt;/div&gt;" vertex="1">
+          <mxGeometry height="46.153846153846146" width="81.70212765957446" y="11.538461538461537" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-110" edge="1" parent="e078-BIbVDtsim-AoM8i-108" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="81.70212765957446" y="34.03846153846153" as="sourcePoint" />
+            <mxPoint x="163.40425531914892" y="34.03846153846153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-111" edge="1" parent="e078-BIbVDtsim-AoM8i-108" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="255.3191489361702" y="34.03846153846153" as="sourcePoint" />
+            <mxPoint x="337.02127659574467" y="34.03846153846153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-112" parent="e078-BIbVDtsim-AoM8i-108" style="rounded=0;whiteSpace=wrap;html=1;" value="Pull Request" vertex="1">
+          <mxGeometry height="46.153846153846146" width="81.70212765957446" x="337.02127659574467" y="11.538461538461537" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-113" parent="e078-BIbVDtsim-AoM8i-108" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;0:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="34.61538461538462" width="61.276595744680854" x="279.82978723404256" y="5.769230769230768" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-114" parent="e078-BIbVDtsim-AoM8i-108" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;0:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="34.61538461538462" width="61.276595744680854" x="81.70212765957446" y="5.769230769230768" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-115" parent="e078-BIbVDtsim-AoM8i-108" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;Teammitglied&lt;/font&gt;" vertex="1">
+          <mxGeometry height="34.61538461538462" width="61.276595744680854" x="91.91489361702126" y="28.846153846153843" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-116" parent="e078-BIbVDtsim-AoM8i-108" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="57.692307692307686" width="91.91489361702126" x="163.40425531914892" y="11.538461538461537" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-117" parent="e078-BIbVDtsim-AoM8i-108" style="rhombus;whiteSpace=wrap;html=1;" value="Review" vertex="1">
+          <mxGeometry height="57.692307692307686" width="91.91489361702126" x="163.40425531914892" y="11.538461538461537" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-118" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;S18:&amp;nbsp;&amp;nbsp;Nach erfolgreicher Prüfung wird der Pull Request zusammengeführt.&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="465" x="110" y="2240" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-119" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="65" width="430" x="120" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-120" parent="e078-BIbVDtsim-AoM8i-119" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Pull Request&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="83.90243902439025" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-121" edge="1" parent="e078-BIbVDtsim-AoM8i-119" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="83.90243902439025" y="29.5" as="sourcePoint" />
+            <mxPoint x="167.8048780487805" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-122" parent="e078-BIbVDtsim-AoM8i-119" style="rhombus;whiteSpace=wrap;html=1;" value="zusamme-&amp;nbsp;&lt;div&gt;geführt&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55" width="94.39024390243902" x="167.8048780487805" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-123" edge="1" parent="e078-BIbVDtsim-AoM8i-119" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="262.1951219512195" y="27.07" as="sourcePoint" />
+            <mxPoint x="346.0975609756098" y="27.07" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-124" parent="e078-BIbVDtsim-AoM8i-119" style="rounded=0;whiteSpace=wrap;html=1;" value="Branch" vertex="1">
+          <mxGeometry height="40" width="83.90243902439025" x="346.0975609756098" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-125" parent="e078-BIbVDtsim-AoM8i-119" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;0:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="62.926829268292686" x="287.3658536585366" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-126" parent="e078-BIbVDtsim-AoM8i-119" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;0:1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="62.926829268292686" x="83.90243902439025" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-127" parent="e078-BIbVDtsim-AoM8i-119" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;Branch&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="62.926829268292686" x="283.1707317073171" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-128" parent="e078-BIbVDtsim-AoM8i-119" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Pull Request&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="62.926829268292686" x="94.39024390243902" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-129" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 0);&quot;&gt;S19:&amp;nbsp;&amp;nbsp;Ein Projekt enthält Aufgaben (Issues).&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="300" x="187.5" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-130" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="65" width="410" x="110" y="2400" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-131" parent="e078-BIbVDtsim-AoM8i-130" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Projekt&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-132" edge="1" parent="e078-BIbVDtsim-AoM8i-130" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="29.5" as="sourcePoint" />
+            <mxPoint x="160" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-133" parent="e078-BIbVDtsim-AoM8i-130" style="rhombus;whiteSpace=wrap;html=1;" value="enthält" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-134" edge="1" parent="e078-BIbVDtsim-AoM8i-130" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="29.5" as="sourcePoint" />
+            <mxPoint x="330" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-135" parent="e078-BIbVDtsim-AoM8i-130" style="rounded=0;whiteSpace=wrap;html=1;" value="Aufgabe" vertex="1">
+          <mxGeometry height="40" width="80" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-136" parent="e078-BIbVDtsim-AoM8i-130" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="274" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-137" parent="e078-BIbVDtsim-AoM8i-130" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-138" parent="e078-BIbVDtsim-AoM8i-130" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;Aufgabe&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-139" parent="e078-BIbVDtsim-AoM8i-130" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Projekt&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="90" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-140" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;S20:&amp;nbsp;&amp;nbsp;Eine Aufgabe hat einen Titel, eine Beschreibung, einen Status, eine Priorität und einen Verantwortlichen&lt;/b&gt;&lt;/font&gt;." vertex="1">
+          <mxGeometry height="40" width="690" x="45" y="2480" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-141" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 0);&quot;&gt;S21:&amp;nbsp;&amp;nbsp;Eine Aufgabe kann mit einem oder mehreren Pull Requests verknüpft sein.&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="510" x="130" y="2590" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-167" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="65" width="410" x="165" y="2640" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-168" parent="e078-BIbVDtsim-AoM8i-167" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Aufgabe&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-169" edge="1" parent="e078-BIbVDtsim-AoM8i-167" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="29.5" as="sourcePoint" />
+            <mxPoint x="160" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-170" parent="e078-BIbVDtsim-AoM8i-167" style="rhombus;whiteSpace=wrap;html=1;" value="verknüpft" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-171" edge="1" parent="e078-BIbVDtsim-AoM8i-167" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="29.5" as="sourcePoint" />
+            <mxPoint x="330" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-172" parent="e078-BIbVDtsim-AoM8i-167" style="rounded=0;whiteSpace=wrap;html=1;" value="Pull Request" vertex="1">
+          <mxGeometry height="40" width="80" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-174" parent="e078-BIbVDtsim-AoM8i-167" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="274" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-175" parent="e078-BIbVDtsim-AoM8i-167" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-176" parent="e078-BIbVDtsim-AoM8i-167" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;Pull Request&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-177" parent="e078-BIbVDtsim-AoM8i-167" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Aufgabe&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="90" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-144" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 0);&quot;&gt;S22:&amp;nbsp;&amp;nbsp;Ein Projekt bietet freie Diskussionsbereiche.&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="350" x="177.5" y="2720" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-157" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="65" width="410" x="165" y="2760" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-158" parent="e078-BIbVDtsim-AoM8i-157" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Projekt&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-159" edge="1" parent="e078-BIbVDtsim-AoM8i-157" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="29.5" as="sourcePoint" />
+            <mxPoint x="160" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-160" parent="e078-BIbVDtsim-AoM8i-157" style="rhombus;whiteSpace=wrap;html=1;" value="bietet" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-161" edge="1" parent="e078-BIbVDtsim-AoM8i-157" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="29.5" as="sourcePoint" />
+            <mxPoint x="330" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-162" parent="e078-BIbVDtsim-AoM8i-157" style="rounded=0;whiteSpace=wrap;html=1;" value="Diskussions-&lt;div&gt;bereiche&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-163" parent="e078-BIbVDtsim-AoM8i-157" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="274" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-164" parent="e078-BIbVDtsim-AoM8i-157" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-165" parent="e078-BIbVDtsim-AoM8i-157" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;Diskussions-&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;bereiche&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="262.5" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-166" parent="e078-BIbVDtsim-AoM8i-157" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Projekt&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="90" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-146" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;S23:&amp;nbsp;&amp;nbsp;Ein Projekt bietet ein Wiki für Dokumentation.&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="322.5" x="197.5" y="2850" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-147" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="65" width="410" x="153.75" y="2900" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-148" parent="e078-BIbVDtsim-AoM8i-147" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Projekt&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-149" edge="1" parent="e078-BIbVDtsim-AoM8i-147" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="29.5" as="sourcePoint" />
+            <mxPoint x="160" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-150" parent="e078-BIbVDtsim-AoM8i-147" style="rhombus;whiteSpace=wrap;html=1;" value="bietet" vertex="1">
+          <mxGeometry height="50" width="90" x="160" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-151" edge="1" parent="e078-BIbVDtsim-AoM8i-147" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="29.5" as="sourcePoint" />
+            <mxPoint x="330" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-152" parent="e078-BIbVDtsim-AoM8i-147" style="rounded=0;whiteSpace=wrap;html=1;" value="Wiki" vertex="1">
+          <mxGeometry height="40" width="80" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-153" parent="e078-BIbVDtsim-AoM8i-147" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="274" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-154" parent="e078-BIbVDtsim-AoM8i-147" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1:1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-155" parent="e078-BIbVDtsim-AoM8i-147" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#000000&quot;&gt;Wiki&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-156" parent="e078-BIbVDtsim-AoM8i-147" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Projekt&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="90" y="35" as="geometry" />
+        </mxCell>
+        <object placeholders="1" MergeType="XOR" id="e078-BIbVDtsim-AoM8i-188">
+          <mxCell parent="1" style="shape=stencil(nVTLboMwEPwaH1sBFh9Q0bSn5tJKPTuwASvGRrabhHx9ba9RgUKaVEKydvYx4/UuhBamYR2QLJGsBUKfSZa9ggTNBL8wy5UslJRQWqWdx4U1GJMmCdqnmc1M56IRPDLN2U4AeozV6gAnXtlYg8sGNLfeSzckeXIx/qNFiZSO3Ew8I78rxrh0uckZiyWPOdL00UarcwwtWNBRJqI/d90G4OV2minJQPoXzeedNOn/aDb33mbWtPQ2mvcFGlo4ZO3haLFj5aHW6ktWi+JACN4ZWO3z8qzNZnH53nsuBI7eouQVYS5PabiieK+kNfziJYcjKKH5NSE+w/YipIRz1N3lFAtni5uDsSTL30DX8NH7lY1vFzuWT1s2mG6Pa4lQCdK/aYCPI7zlVTUsaYAf8J8wGQnBSmiUqECbdd2ho78aF9BY0gPf);whiteSpace=wrap;html=1;aspect=fixed;noLabel=1;_ElementType=GeneralizationMerge;allowArrows=0;perimeter=ellipsePerimeter;metaEdit=1;rotatable=0;" vertex="1">
+            <mxGeometry height="40" width="40" x="466" y="300" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e078-BIbVDtsim-AoM8i-190" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Commit" vertex="1">
+          <mxGeometry height="40" width="80" x="160" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Änderung&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="25" width="60" x="430" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#000000;strokeColor=#000000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="1120" as="sourcePoint" />
+            <mxPoint x="500" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-192" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Code-&lt;div&gt;Repository&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="207.5" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="e078-BIbVDtsim-AoM8i-193" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dateien" vertex="1">
+          <mxGeometry height="40" width="80" x="414" y="990" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7xV6uxNAketFNvbm8T69" name="Seite-2">
+    <mxGraphModel dx="964" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
